@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: rgb(232, 218, 140);
+  @apply bg-slate-500;
 }
 
 .accordion {
